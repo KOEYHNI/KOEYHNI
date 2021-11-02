@@ -26,8 +26,9 @@
 
 <h3 align="center"> 🔥 Me 🔥 </h3>
 <p align="center">
-<a href="https://www.instagram.com/koeyhni__/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://www.instagram.com/koeyhni__/"/></a>
+  <a href="https://www.instagram.com/koeyhni__/"><img src="http://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram&link=https://www.instagram.com/koeyhni__/"/></a>
   <a href="mailto:dlsgur1225@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=dlsgur1225@naver.com"/></a>
+   <a href="https://www.facebook.com/dlsgur1225"><img src="http://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook Text&logoColor=white&link=https://www.facebook.com/dlsgur1225"/></a>
 </p>
 <br>
 
