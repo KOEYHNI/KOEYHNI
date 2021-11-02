@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KOEYHNI&fontSize=90&animation=fadeIn&fontAlignY=38&desc=InHyeok%'s%20GitHub%20Profile.&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KOEYHNI&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Kim%20In%20Hyeok's%20GitHub%20Profile.&descAlignY=51&descAlign=62)
 
 <p align="center">🇰🇷</p>
 
