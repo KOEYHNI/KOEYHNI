@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpMyAdmin&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/></a>&nbsp 
+  
+  <img src="https://img.shields.io/badge/vscode Text-#007ACC?style=flat-square&logo=vscode Text&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
