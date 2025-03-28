@@ -29,7 +29,3 @@
 <p align="center">
   <a href="mailto:dlsgur1225@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=dlsgur1225@naver.com"/></a>
 <br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKOEYHNI&count_bg=%23C83D3D&title_bg=%23555555&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
